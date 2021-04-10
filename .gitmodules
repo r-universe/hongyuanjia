@@ -7,3 +7,4 @@
 	path = eplusr
 	url = https://github.com/hongyuanjia/eplusr
 	shallow = true
+	registered = true
