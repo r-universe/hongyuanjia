@@ -1,10 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/hongyuanjia/universe
 	shallow = true
 	branch = HEAD
 [submodule "eplusr"]
 	path = eplusr
 	url = https://github.com/hongyuanjia/eplusr
+	shallow = true
+	registered = true
+[submodule "psychrolib"]
+	path = psychrolib
+	url = https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r
+	shallow = true
+	registered = true
+[submodule "epluspar"]
+	path = epluspar
+	url = https://github.com/hongyuanjia/epluspar
+	shallow = true
+	registered = true
+[submodule "ggpsychro"]
+	path = ggpsychro
+	url = https://github.com/hongyuanjia/ggpsychro
+	shallow = true
+	registered = true
+[submodule "epwshiftr"]
+	path = epwshiftr
+	url = https://github.com/ideas-lab-nus/epwshiftr
 	shallow = true
 	registered = true

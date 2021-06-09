@@ -2,5 +2,19 @@
   {
     "package": "eplusr",
     "oncran": true
+  },
+  {
+    "package": "psychrolib",
+    "oncran": false
+  },
+  {
+    "package": "epluspar"
+  },
+  {
+    "package": "ggpsychro"
+  },
+  {
+    "package": "epwshiftr",
+    "oncran": true
   }
 ]
