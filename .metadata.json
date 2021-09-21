@@ -16,5 +16,11 @@
   {
     "package": "epwshiftr",
     "oncran": true
+  },
+  {
+    "package": "epwmap"
+  },
+  {
+    "package": "jfun"
   }
 ]
