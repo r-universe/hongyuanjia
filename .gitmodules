@@ -12,6 +12,8 @@
 	path = psychrolib
 	url = https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r
 	shallow = true
+	branch = CRAN
+	subdir = src/r
 	registered = true
 [submodule "epluspar"]
 	path = epluspar
