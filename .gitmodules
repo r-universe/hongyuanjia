@@ -15,11 +15,6 @@
 	branch = CRAN
 	subdir = src/r
 	registered = true
-[submodule "epluspar"]
-	path = epluspar
-	url = https://github.com/hongyuanjia/epluspar
-	shallow = true
-	registered = true
 [submodule "ggpsychro"]
 	path = ggpsychro
 	url = https://github.com/hongyuanjia/ggpsychro
