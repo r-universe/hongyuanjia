@@ -1,42 +1,27 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/hongyuanjia/universe
-	shallow = true
 	branch = HEAD
-[submodule "eplusr"]
-	path = eplusr
-	url = https://github.com/hongyuanjia/eplusr
-	shallow = true
-	registered = true
-[submodule "psychrolib"]
-	path = psychrolib
-	url = https://github.com/hongyuanjia/psychrolib
-	shallow = true
-	branch = CRAN
-	subdir = src/r
-	registered = true
 [submodule "epluspar"]
 	path = epluspar
 	url = https://github.com/hongyuanjia/epluspar
-	shallow = true
-	registered = true
-[submodule "ggpsychro"]
-	path = ggpsychro
-	url = https://github.com/hongyuanjia/ggpsychro
-	shallow = true
-	registered = true
-[submodule "epwshiftr"]
-	path = epwshiftr
-	url = https://github.com/ideas-lab-nus/epwshiftr
-	shallow = true
-	registered = true
+[submodule "eplusr"]
+	path = eplusr
+	url = https://github.com/hongyuanjia/eplusr
 [submodule "epwmap"]
 	path = epwmap
 	url = https://github.com/hongyuanjia/epwmap
-	shallow = true
-	registered = true
+[submodule "epwshiftr"]
+	path = epwshiftr
+	url = https://github.com/ideas-lab-nus/epwshiftr
+[submodule "ggpsychro"]
+	path = ggpsychro
+	url = https://github.com/hongyuanjia/ggpsychro
 [submodule "jfun"]
 	path = jfun
 	url = https://github.com/hongyuanjia/jfun
-	shallow = true
-	registered = true
+[submodule "psychrolib"]
+	path = psychrolib
+	url = https://github.com/hongyuanjia/psychrolib
+	branch = CRAN
+	subdir = src/r
