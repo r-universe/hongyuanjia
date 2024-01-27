@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/hongyuanjia/universe
+	url = https://github.com/hongyuanjia/hongyuanjia.r-universe.dev
 	branch = HEAD
 [submodule "epluspar"]
 	path = epluspar
