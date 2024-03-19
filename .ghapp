@@ -1,10 +1,9 @@
 {
   "id": 14235649,
   "created_at": "2021-01-22T09:57:11.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["eplusr", "epluspar", "psychrolib", "ggpsychro", "hongyuanjia.r-universe.dev"]
+  }
 }
