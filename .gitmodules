@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/hongyuanjia/hongyuanjia.r-universe.dev
 	branch = HEAD
-[submodule "destep"]
-	path = destep
-	url = https://github.com/hongyuanjia/destep
 [submodule "epluspar"]
 	path = epluspar
 	url = https://github.com/hongyuanjia/epluspar
@@ -25,9 +22,9 @@
 	url = https://github.com/hongyuanjia/jfun
 [submodule "psychrolib"]
 	path = psychrolib
-	url = https://github.com/hongyuanjia/psychrolib
+	url = https://github.com/hongyuanjia/psychrolib/tree/CRAN/src/r
 	branch = CRAN
 	subdir = src/r
-[submodule "rdyncall"]
-	path = rdyncall
-	url = https://github.com/hongyuanjia/rdyncall
+[submodule "schemate"]
+	path = schemate
+	url = https://github.com/hongyuanjia/schemate
